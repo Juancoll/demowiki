@@ -1,8 +1,8 @@
 ---
-description: My Page description
+description: Overview
 ---
 
-# My Home
+# Home
 
 * [x] A
 * [ ] B
@@ -20,13 +20,10 @@ description: My Page description
 |  |  |  |
 {% endtab %}
 
-
 {% tab title="Second Tab" %}
 ![](.gitbook/assets/asset-60-100.jpg)
 {% endtab %}
 {% endtabs %}
-
----
 
 aaaaa
 

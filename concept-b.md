@@ -1,2 +1,2 @@
-# Concept B
+# Blog
 
